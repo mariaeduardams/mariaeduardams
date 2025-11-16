@@ -1,6 +1,6 @@
-<h1 align="center">🌸 Olá! Eu sou a Maria Eduarda 🌸</h1>
+<h1 align="center">Maria Eduarda💻 </h1>
 
-<p align="center">Desenvolvedora💻✨</p>
+<p align="center">Desenvolvedora em Formação✨</p>
 
 ---
 
