@@ -4,9 +4,9 @@
 
 ---
 
-## 🧸 Habilidades e Ferramentas
+## 👩‍💻 Habilidades e Ferramentas
 
-### **Desenvolvimento:**
+### **Tecnologias Usadas:**
 
 <p>
   <img src="https://img.shields.io/badge/Java-F48FB1?style=for-the-badge&logo=java&logoColor=white"/>
