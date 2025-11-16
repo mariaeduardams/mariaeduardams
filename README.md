@@ -1,10 +1,10 @@
-<h1 align="center">Maria Eduarda💻</h1>
+<h1 align="center">Maria Eduarda👩‍💻</h1>
 
 <p align="center">Desenvolvedora em Formação✨</p>
 
 ---
 
-## 👩‍💻 Habilidades e Ferramentas
+## 💻 Habilidades e Ferramentas
 
 ### **Tecnologias Usadas:**
 
