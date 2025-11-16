@@ -42,7 +42,7 @@
 ---
 
 
-## 💌 Contatos
+## 📩 Contatos
 
 <p>
   <a href="mailto:meduardamaiasantos@gmail.com">
