@@ -1,4 +1,4 @@
-<h1 align="center">Maria Eduarda💻 </h1>
+<h1 align="center">Maria Eduarda💻</h1>
 
 <p align="center">Desenvolvedora em Formação✨</p>
 
@@ -31,16 +31,13 @@
 
 ---
 
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardams&show_icons=true&theme=rose_pine" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardams&layout=compact&theme=rose_pine" />
 </div>
 
 ---
-
 
 ## 📩 Contatos
 
@@ -54,3 +51,4 @@
 ---
 
 <h3 align="center">✨ Obrigada por visitar meu perfil! ✨</h3>
+
